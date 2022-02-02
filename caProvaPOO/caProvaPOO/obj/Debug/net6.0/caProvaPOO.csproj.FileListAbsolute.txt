@@ -1,0 +1,15 @@
+D:\Documents\UFU\5° Periodo\POO\repos\caProvaPOO\caProvaPOO\obj\Debug\net6.0\caProvaPOO.csproj.AssemblyReference.cache
+D:\Documents\UFU\5° Periodo\POO\repos\caProvaPOO\caProvaPOO\obj\Debug\net6.0\caProvaPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\UFU\5° Periodo\POO\repos\caProvaPOO\caProvaPOO\obj\Debug\net6.0\caProvaPOO.AssemblyInfoInputs.cache
+D:\Documents\UFU\5° Periodo\POO\repos\caProvaPOO\caProvaPOO\obj\Debug\net6.0\caProvaPOO.AssemblyInfo.cs
+D:\Documents\UFU\5° Periodo\POO\repos\caProvaPOO\caProvaPOO\obj\Debug\net6.0\caProvaPOO.csproj.CoreCompileInputs.cache
+D:\Documents\UFU\5° Periodo\POO\repos\caProvaPOO\caProvaPOO\bin\Debug\net6.0\caProvaPOO.exe
+D:\Documents\UFU\5° Periodo\POO\repos\caProvaPOO\caProvaPOO\bin\Debug\net6.0\caProvaPOO.deps.json
+D:\Documents\UFU\5° Periodo\POO\repos\caProvaPOO\caProvaPOO\bin\Debug\net6.0\caProvaPOO.runtimeconfig.json
+D:\Documents\UFU\5° Periodo\POO\repos\caProvaPOO\caProvaPOO\bin\Debug\net6.0\caProvaPOO.dll
+D:\Documents\UFU\5° Periodo\POO\repos\caProvaPOO\caProvaPOO\bin\Debug\net6.0\ref\caProvaPOO.dll
+D:\Documents\UFU\5° Periodo\POO\repos\caProvaPOO\caProvaPOO\bin\Debug\net6.0\caProvaPOO.pdb
+D:\Documents\UFU\5° Periodo\POO\repos\caProvaPOO\caProvaPOO\obj\Debug\net6.0\caProvaPOO.dll
+D:\Documents\UFU\5° Periodo\POO\repos\caProvaPOO\caProvaPOO\obj\Debug\net6.0\ref\caProvaPOO.dll
+D:\Documents\UFU\5° Periodo\POO\repos\caProvaPOO\caProvaPOO\obj\Debug\net6.0\caProvaPOO.pdb
+D:\Documents\UFU\5° Periodo\POO\repos\caProvaPOO\caProvaPOO\obj\Debug\net6.0\caProvaPOO.genruntimeconfig.cache
